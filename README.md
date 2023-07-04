@@ -1,4 +1,4 @@
-# candy-crush
+# candy-crush......
 A vanilla JavaScript Game inspired by Candy Crush - Built for learning purposes
 
 In this walkthrough, I show you how to build Candy Crush in pure JavaScript, HTML and CSS. Watch the full video walkthrough [here](https://youtu.be/XD5sZWxwJUk): 
